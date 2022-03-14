@@ -1,2 +1,2 @@
 # small_games
-Rock, scissors ,paper
+Kids Games (:
