@@ -22,15 +22,14 @@ while com_choice == user_choice:
     com_choice = comp_choice()
 
 if "Rock" in user_choice and "Paper" in com_choice:
-    print("Computer Paper win")
+    print("Computer Paper win!")
 elif "Rock" in user_choice and "Scissors" is com_choice:
-    print("your Rock win")
+    print("your Rock win!")
 elif "Paper" in user_choice and "Scissors" is com_choice:
-    print("Computer Scissors win")
+    print("Computer Scissors win!")
 elif "Paper" in user_choice and "Rock" is com_choice:
-    print("your Paper win")
+    print("your Paper win!")
 elif "Scissors" in user_choice and "Rock" is com_choice:
-    print("Computer Rock win")
+    print("Computer Rock win!")
 else:
-    print("your Scissors win")
-
+    print("your Scissors win!")
