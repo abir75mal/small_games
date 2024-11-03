@@ -14,7 +14,6 @@ def comp_choice():
     print("computer choice is: " + com_choice)
     return com_choice
 
-
 user_choice = new_choice()
 com_choice = comp_choice()
 while com_choice == user_choice:
